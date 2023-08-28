@@ -40,7 +40,9 @@ No terminal ou prompt de comando, ainda no diretório do projeto, execute o scri
 ## Escolher uma Opção
 ### O bot apresentará um menu com opções. Escolha a opção relevante com base nos seus requisitos:
 Opção 1: Inicia o código principal para processamento de dados.
+
 Opção 2: Lista os códigos RV disponíveis.
+
 Opção 3: Encerra o programa.
 
 # Conclusão
