@@ -277,10 +277,10 @@ def list_codes():
     print(Style.RESET_ALL)
 
 def main_menu():
-    print(Fore.MAGENTA + "Menu do Terminal\n")
-    print(Fore.MAGENTA + "1. Iniciar Código Principal")
-    print(Fore.MAGENTA + "2. Listar Códigos")
-    print(Fore.MAGENTA + "3. Sair")
+    print(Fore.CYAN + "Menu do Terminal\n")
+    print(Fore.CYAN + "1. Iniciar Código Principal")
+    print(Fore.CYAN + "2. Listar Códigos")
+    print(Fore.RED + "3. Sair")
     print(Style.RESET_ALL)
 
 while True:
