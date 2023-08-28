@@ -14,3 +14,5 @@ Antes de continuar com a instalação, certifique-se de ter os seguintes pré-re
 
    ```sh
    git clone https://github.com/seu-nome-de-usuário/seu-repo-rvbot.git
+   
+Substitua seu-nome-de-usuário pelo seu nome de usuário do GitHub e seu-repo-rvbot pelo nome do seu repositório
