@@ -17,10 +17,10 @@ Antes de continuar com a instalação, certifique-se de ter os seguintes pré-re
    ```
 Substitua seu-nome-de-usuário pelo seu nome de usuário da SINQIA e seu-repo-rvbot pelo nome do seu repositório
 ## Instalar as Dependências
-Instale as dependências necessárias a partir do arquivo 'requirements.txt':
+Instale as dependências necessárias a partir do arquivo 'requisitos.txt':
 
    ```sh
-   pip install -r requirements.txt
+   pip install -r requisitos.txt
 ```
 ## Configurar o Bot
 Abra o arquivo seu-script-rvbot.py em um editor de texto. Considere renomear o arquivo para um nome mais descritivo.
