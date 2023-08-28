@@ -1,0 +1,7 @@
+pandas-market-calendars
+selenium
+xlwings
+colorama
+pyautogui
+opencv-python
+numpy
