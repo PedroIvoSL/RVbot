@@ -30,4 +30,18 @@ No script, localize a função credencial e forneça suas credenciais de login p
    ```python
    credencial('SeuNomeDeUsuário', 'Usr')
    credencial('SuaSenha', 'Pwd')
+```
+# Uso
+## Executar o Bot
+No terminal ou prompt de comando, ainda no diretório do projeto, execute o script:
+```sh
+ python RV2.0.py
+```
+## Escolher uma Opção
+### O bot apresentará um menu com opções. Escolha a opção relevante com base nos seus requisitos:
+Opção 1: Inicia o código principal para processamento de dados.
+Opção 2: Lista os códigos RV disponíveis.
+Opção 3: Encerra o programa.
 
+# Conclusão
+Você instalou e configurou com sucesso o RVbot. Agora você pode usá-lo para automatizar tarefas de web scraping e manipulação de dados.
