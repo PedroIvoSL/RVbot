@@ -13,7 +13,7 @@ Antes de continuar com a instalação, certifique-se de ter os seguintes pré-re
 1. **Clonar o Repositório**: Abra um terminal ou prompt de comando e navegue até o diretório onde deseja instalar o RVbot. Execute o seguinte comando para clonar o repositório:
 
    ```sh
-   git clone https://github.com/seu-nome-de-usuário/seu-repo-rvbot.git
+   git clone https://github.com/PedroIvoSL/RVbot
    ```
 Substitua seu-nome-de-usuário pelo seu nome de usuário da SINQIA e seu-repo-rvbot pelo nome do seu repositório
 ## Instalar as Dependências
