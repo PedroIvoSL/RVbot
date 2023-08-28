@@ -29,4 +29,5 @@ Abra o arquivo seu-script-rvbot.py em um editor de texto. Considere renomear o a
 No script, localize a função credencial e forneça suas credenciais de login para o site relevante:
    ```python
    credencial('SeuNomeDeUsuário', 'Usr')
-   credencial('SuaSenha', 'Pwd') ```
+   credencial('SuaSenha', 'Pwd')
+
