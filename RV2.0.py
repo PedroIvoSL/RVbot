@@ -120,7 +120,7 @@ def start_main_code():
         username_field = driver.find_element(By.CSS_SELECTOR, '#'+campo)
         username_field.send_keys(credencial)
     
-    download_directory = r"W:\PRESI\GERIS\_RESTRITO\BSHV"
+    download_directory =  #TODO: colocar caminho de download caso haja necessidade
     shutil.rmtree(download_directory, ignore_errors=True)
     os.makedirs(download_directory, exist_ok=True)
 
@@ -163,7 +163,7 @@ def start_main_code():
         month_name = f"{month}- {portuguese_month_names[month]}"
 
         folder_path = os.path.join(
-            r"W:\PRESI\GERIS\_RESTRITO\2. Controle de Investimento\2.4 Controle Diário Investimentos",
+            r"CAMINHO", #TODO: Aqui colocar o caminho inicial de onde está localizado os arquivos CSV.
             year,
             month_name,
             f"{day}_{month}_{year}"
